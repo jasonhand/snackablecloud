@@ -27,7 +27,7 @@ preserveTaxonomyNames = true
     # Urls for social networks
 
     twitter = "https://twitter.com/jasonhand"
-    github = "https://github.com/jasonhand/cloudavision"
+    github = "https://github.com/jasonhand/snackablecloud"
 
 
     # Enables or disables the loading animations. false activates them. Default is false.
