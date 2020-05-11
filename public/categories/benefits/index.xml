@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Snackable Cloud</title>
-    <link>https://brave-smoke-03aa0fb1e.azurestaticapps.net/</link>
-    <description>Recent content on Snackable Cloud</description>
+    <title>benefits on Snackable Cloud</title>
+    <link>https://brave-smoke-03aa0fb1e.azurestaticapps.net/categories/benefits/</link>
+    <description>Recent content in benefits on Snackable Cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://brave-smoke-03aa0fb1e.azurestaticapps.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://brave-smoke-03aa0fb1e.azurestaticapps.net/categories/benefits/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -31,15 +31,6 @@ Hey the cloud is just somebody else&amp;rsquo;s computer. Also, somebody else&am
       <description>Learn More
 Watch Video
 Hey the cloud is just somebody else&amp;rsquo;s computer. Also, somebody else&amp;rsquo;s servers, infrastructure, data center, etc, that is probably better than yours. @bbenz and @jasonhand break it down here:</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://brave-smoke-03aa0fb1e.azurestaticapps.net/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://brave-smoke-03aa0fb1e.azurestaticapps.net/about/</guid>
-      <description></description>
     </item>
     
   </channel>
