@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cloud computing on Cloudavision</title>
+    <link>https://proud-hill-09a82941e.azurestaticapps.net/tags/cloud-computing/</link>
+    <description>Recent content in cloud computing on Cloudavision</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://proud-hill-09a82941e.azurestaticapps.net/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Episode: </title>
+      <link>https://proud-hill-09a82941e.azurestaticapps.net/01/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://proud-hill-09a82941e.azurestaticapps.net/01/</guid>
+      <description>Learn More
+Hey the cloud is just somebody else&amp;rsquo;s computer. Also, somebody else&amp;rsquo;s servers, infrastructure, data center, etc, that is probably better than yours. @bbenz and @jasonhand break it down here:</description>
+    </item>
+    
+  </channel>
+</rss>
