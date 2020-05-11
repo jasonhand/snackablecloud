@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Snackable Cloud</title>
-    <link>https://brave-smoke-03aa0fb1e.azurestaticapps.net/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Snackable Cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://brave-smoke-03aa0fb1e.azurestaticapps.net/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>azure</title>
-      <link>https://brave-smoke-03aa0fb1e.azurestaticapps.net/categories/azure/</link>
+      <link>/categories/azure/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://brave-smoke-03aa0fb1e.azurestaticapps.net/categories/azure/</guid>
+      <guid>/categories/azure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>benefits</title>
-      <link>https://brave-smoke-03aa0fb1e.azurestaticapps.net/categories/benefits/</link>
+      <link>/categories/benefits/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://brave-smoke-03aa0fb1e.azurestaticapps.net/categories/benefits/</guid>
+      <guid>/categories/benefits/</guid>
       <description></description>
     </item>
     
     <item>
       <title>snacks</title>
-      <link>https://brave-smoke-03aa0fb1e.azurestaticapps.net/categories/snacks/</link>
+      <link>/categories/snacks/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://brave-smoke-03aa0fb1e.azurestaticapps.net/categories/snacks/</guid>
+      <guid>/categories/snacks/</guid>
       <description></description>
     </item>
     

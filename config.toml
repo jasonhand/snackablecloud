@@ -1,4 +1,4 @@
-baseURL = "https://www.snackablecloud.com"
+baseURL = "/"
 title = "Snackable Cloud"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cloud on Snackable Cloud</title>
-    <link>https://brave-smoke-03aa0fb1e.azurestaticapps.net/tags/cloud/</link>
+    <link>/tags/cloud/</link>
     <description>Recent content in cloud on Snackable Cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://brave-smoke-03aa0fb1e.azurestaticapps.net/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CapEx Vs OpEx</title>
-      <link>https://brave-smoke-03aa0fb1e.azurestaticapps.net/post/3c-capex-vs-opex/</link>
+      <link>/post/3c-capex-vs-opex/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://brave-smoke-03aa0fb1e.azurestaticapps.net/post/3c-capex-vs-opex/</guid>
+      <guid>/post/3c-capex-vs-opex/</guid>
       <description>Learn More
 Watch Video
 Hey the cloud is just somebody else&amp;rsquo;s computer. Also, somebody else&amp;rsquo;s servers, infrastructure, data center, etc, that is probably better than yours. @bbenz and @jasonhand break it down here:</description>

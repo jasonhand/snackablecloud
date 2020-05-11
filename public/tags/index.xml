@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Snackable Cloud</title>
-    <link>https://brave-smoke-03aa0fb1e.azurestaticapps.net/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Snackable Cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://brave-smoke-03aa0fb1e.azurestaticapps.net/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>capital expenditure</title>
-      <link>https://brave-smoke-03aa0fb1e.azurestaticapps.net/tags/capital-expenditure/</link>
+      <link>/tags/capital-expenditure/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://brave-smoke-03aa0fb1e.azurestaticapps.net/tags/capital-expenditure/</guid>
+      <guid>/tags/capital-expenditure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cloud</title>
-      <link>https://brave-smoke-03aa0fb1e.azurestaticapps.net/tags/cloud/</link>
+      <link>/tags/cloud/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://brave-smoke-03aa0fb1e.azurestaticapps.net/tags/cloud/</guid>
+      <guid>/tags/cloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cloud computing</title>
-      <link>https://brave-smoke-03aa0fb1e.azurestaticapps.net/tags/cloud-computing/</link>
+      <link>/tags/cloud-computing/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://brave-smoke-03aa0fb1e.azurestaticapps.net/tags/cloud-computing/</guid>
+      <guid>/tags/cloud-computing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>disaster recovery</title>
-      <link>https://brave-smoke-03aa0fb1e.azurestaticapps.net/tags/disaster-recovery/</link>
+      <link>/tags/disaster-recovery/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://brave-smoke-03aa0fb1e.azurestaticapps.net/tags/disaster-recovery/</guid>
+      <guid>/tags/disaster-recovery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>elasticity</title>
-      <link>https://brave-smoke-03aa0fb1e.azurestaticapps.net/tags/elasticity/</link>
+      <link>/tags/elasticity/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://brave-smoke-03aa0fb1e.azurestaticapps.net/tags/elasticity/</guid>
+      <guid>/tags/elasticity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>high availability</title>
-      <link>https://brave-smoke-03aa0fb1e.azurestaticapps.net/tags/high-availability/</link>
+      <link>/tags/high-availability/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://brave-smoke-03aa0fb1e.azurestaticapps.net/tags/high-availability/</guid>
+      <guid>/tags/high-availability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>operational expenditure</title>
-      <link>https://brave-smoke-03aa0fb1e.azurestaticapps.net/tags/operational-expenditure/</link>
+      <link>/tags/operational-expenditure/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://brave-smoke-03aa0fb1e.azurestaticapps.net/tags/operational-expenditure/</guid>
+      <guid>/tags/operational-expenditure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>serverless</title>
-      <link>https://brave-smoke-03aa0fb1e.azurestaticapps.net/tags/serverless/</link>
+      <link>/tags/serverless/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://brave-smoke-03aa0fb1e.azurestaticapps.net/tags/serverless/</guid>
+      <guid>/tags/serverless/</guid>
       <description></description>
     </item>
     
