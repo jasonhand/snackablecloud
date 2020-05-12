@@ -19,7 +19,7 @@ preserveTaxonomyNames = true
     copyrightname = "@JasonHand"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    copyrighturl = "https://docs.microsoft.com/?WT.mc_id=snackable-snackablecloud-jahand"
+    copyrighturl = "https://jhand.dev/snack"
 
     # Show the "built on Hugo" disclaimer
     showhugo = true
