@@ -17,7 +17,7 @@ categories = [
 
 [Learn More](https://docs.microsoft.com/learn/modules/principles-cloud-computing/3c-capex-vs-opex?WT.mc_id=snackable-social-cxa)
 
-![](../../static/img/capexopex.png)
+![](/img/capexopex.png)
 
 [Watch Video](https://twitter.com/i/status/1258411264532901892)
 
