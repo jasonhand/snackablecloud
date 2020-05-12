@@ -1,4 +1,4 @@
-baseURL = "https://www.snackablecloud.com/"
+baseURL = "https://red-bay-0f5714b1e.azurestaticapps.net/"
 title = "Snackable Cloud"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
