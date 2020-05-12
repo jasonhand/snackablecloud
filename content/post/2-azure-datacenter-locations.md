@@ -1,0 +1,20 @@
++++
+author = "Actors"
+title = "Describe the benefits and usage of regions"
+date = "2020-05-04"
+description = "Describe the core azure architectural components"
+tags = [
+    "availability zones",
+    "regions"
+]
+categories = [
+    "azure",
+    "snacks"
+]
++++
+
+[Learn More](https://docs.microsoft.com/learn/modules/principles-cloud-computing/3c-capex-vs-opex?WT.mc_id=snackable-social-cxa)
+
+[Watch Video](https://twitter.com/i/status/1258411264532901892)
+
+Hey the cloud is just somebody else's computer. Also, somebody else's servers, infrastructure, data center, etc, that is probably better than yours. @bbenz and @jasonhand break it down here:
