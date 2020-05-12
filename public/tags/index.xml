@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Snackable Cloud</title>
-    <link>/tags/</link>
+    <link>https://www.snackablecloud.com/tags/</link>
     <description>Recent content in Tags on Snackable Cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.snackablecloud.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>capital expenditure</title>
-      <link>/tags/capital-expenditure/</link>
+      <link>https://www.snackablecloud.com/tags/capital-expenditure/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/capital-expenditure/</guid>
+      <guid>https://www.snackablecloud.com/tags/capital-expenditure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cloud</title>
-      <link>/tags/cloud/</link>
+      <link>https://www.snackablecloud.com/tags/cloud/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/cloud/</guid>
+      <guid>https://www.snackablecloud.com/tags/cloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cloud computing</title>
-      <link>/tags/cloud-computing/</link>
+      <link>https://www.snackablecloud.com/tags/cloud-computing/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/cloud-computing/</guid>
+      <guid>https://www.snackablecloud.com/tags/cloud-computing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>disaster recovery</title>
-      <link>/tags/disaster-recovery/</link>
+      <link>https://www.snackablecloud.com/tags/disaster-recovery/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/disaster-recovery/</guid>
+      <guid>https://www.snackablecloud.com/tags/disaster-recovery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>elasticity</title>
-      <link>/tags/elasticity/</link>
+      <link>https://www.snackablecloud.com/tags/elasticity/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/elasticity/</guid>
+      <guid>https://www.snackablecloud.com/tags/elasticity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>high availability</title>
-      <link>/tags/high-availability/</link>
+      <link>https://www.snackablecloud.com/tags/high-availability/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/high-availability/</guid>
+      <guid>https://www.snackablecloud.com/tags/high-availability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>operational expenditure</title>
-      <link>/tags/operational-expenditure/</link>
+      <link>https://www.snackablecloud.com/tags/operational-expenditure/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/operational-expenditure/</guid>
+      <guid>https://www.snackablecloud.com/tags/operational-expenditure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>serverless</title>
-      <link>/tags/serverless/</link>
+      <link>https://www.snackablecloud.com/tags/serverless/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/serverless/</guid>
+      <guid>https://www.snackablecloud.com/tags/serverless/</guid>
       <description></description>
     </item>
     
