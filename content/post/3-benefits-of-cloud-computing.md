@@ -1,6 +1,6 @@
 +++
 author = "Actors"
-title = "The benefits of cloud computing"
+title = "Benefits of cloud computing"
 date = "2020-05-04"
 description = "Identify the benefits of cloud computing, such as high availability, scalability, elasticity, agility, and disaster recovery"
 tags = [

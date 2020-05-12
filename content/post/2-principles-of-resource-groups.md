@@ -1,8 +1,8 @@
 +++
 author = "Actors"
-title = "CapEx Vs OpEx"
+title = "Principles of Resource Groups"
 date = "2020-05-04"
-description = "Identify the differences between CapEX and OpEx"
+description = "Coming soon..."
 tags = [
     "capital expenditure",
     "operational expenditure",

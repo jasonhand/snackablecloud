@@ -1,8 +1,8 @@
 +++
 author = "Actors"
-title = "Describe the benefits and usage of regions"
+title = "Azure Datacenter Locations"
 date = "2020-05-04"
-description = "Describe the core azure architectural components"
+description = "Coming soon"
 tags = [
     "availability zones",
     "regions"

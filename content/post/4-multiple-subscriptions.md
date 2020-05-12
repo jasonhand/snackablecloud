@@ -1,8 +1,8 @@
 +++
 author = "Actors"
-title = "CapEx Vs OpEx"
+title = "Multiple Subscriptions"
 date = "2020-05-04"
-description = "Identify the differences between CapEX and OpEx"
+description = "Coming Soon..."
 tags = [
     "capital expenditure",
     "operational expenditure",
