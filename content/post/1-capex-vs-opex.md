@@ -1,7 +1,7 @@
 +++
 author = "Actors"
 title = "CapEx Vs OpEx"
-date = "2020-05-17"
+date = "2020-05-13"
 description = "Identify the differences between CapEX and OpEx"
 tags = [
     "capital expenditure",

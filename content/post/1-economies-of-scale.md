@@ -1,7 +1,7 @@
 +++
 author = "Actors"
 title = "Economies of Scale"
-date = "2020-05-18"
+date = "2020-05-11"
 description = "Coming soon..."
 tags = [
     "capital expenditure",

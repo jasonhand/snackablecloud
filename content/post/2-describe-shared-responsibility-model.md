@@ -1,7 +1,7 @@
 +++
 author = "Actors"
 title = "Pricing"
-date = "2020-05-16"
+date = "2020-05-10"
 description = "Describe Shared Responsibility Model"
 tags = [
     "capital expenditure",
