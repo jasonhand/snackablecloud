@@ -1,7 +1,7 @@
 +++
 author = "Actors"
-title = "Pricing"
-date = "2020-05-04"
+title = "CapEx Vs OpEx"
+date = "2020-05-17"
 description = "Identify the differences between CapEX and OpEx"
 tags = [
     "capital expenditure",
@@ -11,11 +11,13 @@ tags = [
 categories = [
     "azure",
     "snacks",
-    "benefits"
+    "pricing"
 ]
 +++
 
 [Learn More](https://docs.microsoft.com/learn/modules/principles-cloud-computing/3c-capex-vs-opex?WT.mc_id=snackable-social-cxa)
+
+![](/img/capexopex.png)
 
 [Watch Video](https://twitter.com/i/status/1258411264532901892)
 

@@ -1,8 +1,8 @@
 +++
 author = "Actors"
-title = "CapEx Vs OpEx"
-date = "2020-05-01"
-description = "Identify the differences between CapEX and OpEx"
+title = "Pricing"
+date = "2020-05-16"
+description = "Describe Shared Responsibility Model"
 tags = [
     "capital expenditure",
     "operational expenditure",
@@ -16,8 +16,6 @@ categories = [
 +++
 
 [Learn More](https://docs.microsoft.com/learn/modules/principles-cloud-computing/3c-capex-vs-opex?WT.mc_id=snackable-social-cxa)
-
-![](/img/capexopex.png)
 
 [Watch Video](https://twitter.com/i/status/1258411264532901892)
 
