@@ -9,11 +9,12 @@
         {{ if isset .Site.Params "showhugo" }}
              | {{ i18n "builton" }} <a href="//gohugo.io" target="_blank">Hugo</a>
         {{ end }}
+        with the <a href="https://themes.gohugo.io/hugo.386/" target="_blank">Hugo.386 theme</a>
     </p>
     <p class="text-center">
        
-        {{ with .Site.Params.twitter }}<a href="{{ . }}">Twitter</a> {{ end }}
-        {{ with .Site.Params.github }}<a href="{{ . }}">GitHub</a> {{ end }}
+        {{ with .Site.Params.twitter }}<a href="{{ . }}" target="_blank">Twitter</a> {{ end }}
+        {{ with .Site.Params.github }}<a href="{{ . }}" target="_blank">GitHub</a> {{ end }}
     </p>
 </footer>
 
