@@ -14,7 +14,7 @@ categories = [
 ]
 +++
 
-[Learn More](https://jhand.dev/24)
+["Learn" More](https://jhand.dev/24)
 
 [Watch Video](https://twitter.com/i/status/1258815124330000384)
 

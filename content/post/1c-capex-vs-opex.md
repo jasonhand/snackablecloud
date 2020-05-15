@@ -13,7 +13,7 @@ categories = [
 ]
 +++
 
-[Learn More](https://jhand.dev/21)
+["Learn" More](https://jhand.dev/21)
 
 ![](/img/capexopex.png)
 
