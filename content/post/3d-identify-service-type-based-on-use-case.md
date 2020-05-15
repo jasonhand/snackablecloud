@@ -13,8 +13,8 @@ categories = [
 ]
 +++
 
-[Learn More](https://docs.microsoft.com/learn/modules/principles-cloud-computing/3c-capex-vs-opex?WT.mc_id=snackable-social-cxa)
+[Learn More](https://docs.microsoft.com/learn/modules/principles-cloud-computing/5-types-of-cloud-services?WT.mc_id=snackable-social-cxa)
 
-[Watch Video](https://twitter.com/i/status/1258411264532901892)
+[Watch Video](https://twitter.com/i/status/1260329979704827904)
 
 IaaS PaaS SaaS? Confusing? Join @fboucheros and @LBugnion to help you identify which kind of service you really need! #az900

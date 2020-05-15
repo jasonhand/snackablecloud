@@ -1,6 +1,6 @@
 +++
 author = "Actors"
-title = "Compare and contrast the three different cloud models"
+title = "Comparisons of Three Different Cloud Models"
 date = "2020-05-01"
 description = "Compare and contrast the three different cloud models"
 tags = [
@@ -13,7 +13,7 @@ categories = [
 ]
 +++
 
-[Learn More](https://docs.microsoft.com/learn/modules/principles-cloud-computing/3c-capex-vs-opex?WT.mc_id=snackable-social-cxa)
+[Learn More](https://docs.microsoft.com/learn/modules/principles-cloud-computing/4-cloud-deployment-models?WT.mc_id=snackable-social-cxa)
 
 [Watch Video](https://twitter.com/i/status/1258411264532901892)
 

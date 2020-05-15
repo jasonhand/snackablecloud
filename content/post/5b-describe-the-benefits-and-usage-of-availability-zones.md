@@ -1,6 +1,6 @@
 +++
 author = "Actors"
-title = "Describe the benefits and usage of Availability zones"
+title = "Availability Zones"
 date = "2020-04-29"
 description = "Describe the benefits and usage of Availability zones"
 tags = [
@@ -13,7 +13,7 @@ categories = [
 ]
 +++
 
-[Learn More](https://docs.microsoft.com/learn/modules/principles-cloud-computing/3c-capex-vs-opex?WT.mc_id=snackable-social-cxa)
+[Learn More](https://docs.microsoft.com/learn/modules/explore-azure-infrastructure/4-availability-zones?WT.mc_id=snackable-social-cxa)
 
 [Watch Video](https://twitter.com/i/status/1258411264532901892)
 

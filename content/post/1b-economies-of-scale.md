@@ -14,8 +14,8 @@ categories = [
 ]
 +++
 
-[Learn More](https://docs.microsoft.com/learn/modules/principles-cloud-computing/3c-capex-vs-opex?WT.mc_id=snackable-social-cxa)
+[Learn More](https://docs.microsoft.com/learn/modules/principles-cloud-computing/3b-economies-of-scale?WT.mc_id=snackable-social-cxa)
 
-[Watch Video](https://twitter.com/i/status/1258411264532901892)
+[Watch Video](https://twitter.com/i/status/1258199872429109248)
 
 Who spends a billion dollars on data center security and compliance?  @Microsoft does, so their @azure customers don't have to spend even more.  @jasonhand and @bbenz explain here: #az900

@@ -1,6 +1,6 @@
 +++
 author = "Actors"
-title = "Describe the benefits and usage of Subscriptions"
+title = "Subscriptions"
 date = "2020-04-27"
 description = "Describe the benefits and usage of Subscriptions"
 tags = [
@@ -13,7 +13,7 @@ categories = [
 ]
 +++
 
-[Learn More](https://docs.microsoft.com/learn/modules/principles-cloud-computing/3c-capex-vs-opex?WT.mc_id=snackable-social-cxa)
+[Learn More](https://docs.microsoft.com/en-ca/learn/modules/create-an-azure-account/4-multiple-subscriptions?WT.mc_id=snackable-social-cxa)
 
 [Watch Video](https://twitter.com/i/status/1258411264532901892)
 

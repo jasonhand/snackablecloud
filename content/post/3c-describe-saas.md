@@ -13,8 +13,8 @@ categories = [
 ]
 +++
 
-[Learn More](https://docs.microsoft.com/learn/modules/principles-cloud-computing/3c-capex-vs-opex?WT.mc_id=snackable-social-cxa)
+[Learn More](https://docs.microsoft.com/learn/modules/principles-cloud-computing/5-types-of-cloud-services?WT.mc_id=snackable-social-cxa)
 
-[Watch Video](https://twitter.com/i/status/1258411264532901892)
+[Watch Video](https://twitter.com/i/status/1260185454810296321)
 
 Did you know that SaaS means Software as a Service? Here @LBugnion and @AmyKateNicho describe what it means and give examples #az900
