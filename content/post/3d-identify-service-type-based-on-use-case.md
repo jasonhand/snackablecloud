@@ -6,7 +6,7 @@ description = "Identify a Service Type Based On Use Case"
 tags = [
     "Service",
     "platform",
-    "cloud"
+    "cloud computing"
 ]
 categories = [
     "azure",

@@ -5,7 +5,7 @@ date = "2020-04-30"
 description = "Describe the benefits and usage of regions"
 tags = [
     "Regions",
-    "cloud"
+    "cloud computing"
 ]
 categories = [
     "azure",

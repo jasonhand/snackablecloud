@@ -5,7 +5,7 @@ date = "2020-05-01"
 description = "Compare and contrast the three different cloud models"
 tags = [
     "models",
-    "cloud"
+    "cloud computing"
 ]
 categories = [
     "azure",

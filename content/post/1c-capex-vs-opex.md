@@ -6,7 +6,7 @@ description = "Identify the differences between CapEX and OpEx"
 tags = [
     "capital expenditure",
     "operational expenditure",
-    "cloud"
+    "cloud computing"
 ]
 categories = [
     "azure",

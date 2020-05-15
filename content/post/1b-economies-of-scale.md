@@ -6,7 +6,7 @@ description = "Coming soon..."
 tags = [
     "capital expenditure",
     "operational expenditure",
-    "cloud"
+    "cloud computing"
 ]
 categories = [
     "azure",

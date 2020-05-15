@@ -5,7 +5,7 @@ date = "2020-05-03"
 description = "Describe Private Cloud"
 tags = [
     "private",
-    "cloud"
+    "cloud computing"
 ]
 categories = [
     "azure",

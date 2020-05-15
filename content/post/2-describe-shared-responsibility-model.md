@@ -6,7 +6,7 @@ description = "Describe Shared Responsibility Model"
 tags = [
     "capital expenditure",
     "operational expenditure",
-    "cloud"
+    "cloud computing"
 ]
 categories = [
     "azure",

@@ -5,7 +5,7 @@ date = "2020-05-02"
 description = "Describe Hybrid Cloud"
 tags = [
     "hybrid",
-    "cloud"
+    "cloud computing"
 ]
 categories = [
     "azure",

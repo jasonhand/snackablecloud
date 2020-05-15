@@ -6,7 +6,7 @@ description = "Describe Public Cloud"
 tags = [
     "capital expenditure",
     "operational expenditure",
-    "cloud"
+    "cloud computing"
 ]
 categories = [
     "azure",

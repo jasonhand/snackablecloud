@@ -5,7 +5,7 @@ date = "2020-04-29"
 description = "Describe the benefits and usage of Availability zones"
 tags = [
     "availability zones",
-    "cloud"
+    "cloud computing"
 ]
 categories = [
     "azure",

@@ -5,7 +5,7 @@ date = "2020-04-27"
 description = "Describe the benefits and usage of Subscriptions"
 tags = [
     "subscriptions",
-    "cloud"
+    "cloud computing"
 ]
 categories = [
     "azure",

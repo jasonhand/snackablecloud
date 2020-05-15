@@ -6,7 +6,7 @@ description = "Describe IaaS"
 tags = [
     "IaaS",
     "infrastructure",
-    "cloud"
+    "cloud computing"
 ]
 categories = [
     "azure",

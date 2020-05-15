@@ -6,7 +6,7 @@ description = "Define Cloud Computing"
 tags = [
     "capital expenditure",
     "operational expenditure",
-    "cloud"
+    "cloud computing"
 ]
 categories = [
     "azure",

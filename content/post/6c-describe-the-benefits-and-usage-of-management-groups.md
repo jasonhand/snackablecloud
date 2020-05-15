@@ -5,7 +5,7 @@ date = "2020-04-26"
 description = "Describe the benefits and usage of Management Groups"
 tags = [
     "Management Groups",
-    "cloud"
+    "cloud computing"
 ]
 categories = [
     "azure",
