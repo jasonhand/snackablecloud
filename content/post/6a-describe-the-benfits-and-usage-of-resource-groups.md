@@ -4,7 +4,7 @@ title = "Describe the benefits and usage of Resource Groups"
 date = "2020-04-28"
 description = "Describe the benefits and usage of Resource Groups"
 tags = [
-    "availability zones",
+    "resource groups",
     "cloud"
 ]
 categories = [

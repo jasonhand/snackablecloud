@@ -1,8 +1,8 @@
 +++
 author = "Actors"
-title = "Cloud Deployment Models"
+title = "Describe Public Cloud"
 date = "2020-05-04"
-description = "Coming soon..."
+description = "Describe Public Cloud"
 tags = [
     "capital expenditure",
     "operational expenditure",

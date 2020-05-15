@@ -1,17 +1,15 @@
 +++
 author = "Actors"
-title = "Cloud Deployment Models"
+title = "Describe Hybrid Cloud"
 date = "2020-05-02"
-description = "Coming soon..."
+description = "Describe Hybrid Cloud"
 tags = [
-    "capital expenditure",
-    "operational expenditure",
+    "hybrid",
     "cloud"
 ]
 categories = [
     "azure",
     "snacks",
-    "benefits"
 ]
 +++
 

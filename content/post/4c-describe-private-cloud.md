@@ -1,17 +1,15 @@
 +++
 author = "Actors"
-title = "Cloud Deployment Models"
+title = "Describe Private Cloud"
 date = "2020-05-03"
-description = "Coming soon..."
+description = "Describe Private Cloud"
 tags = [
-    "capital expenditure",
-    "operational expenditure",
+    "private",
     "cloud"
 ]
 categories = [
     "azure",
-    "snacks",
-    "benefits"
+    "snacks"
 ]
 +++
 
