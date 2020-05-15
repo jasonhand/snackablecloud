@@ -1,6 +1,6 @@
 +++
 author = "Actors"
-title = "Describe Infrastructure as a Service (IaaS)"
+title = "Infrastructure as a Service (IaaS)"
 date = "2020-05-09"
 description = "Describe IaaS"
 tags = [
@@ -9,8 +9,7 @@ tags = [
     "cloud computing"
 ]
 categories = [
-    "azure",
-    "snacks"
+    "azure"
 ]
 +++
 

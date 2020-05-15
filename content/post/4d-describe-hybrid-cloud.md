@@ -8,8 +8,7 @@ tags = [
     "cloud computing"
 ]
 categories = [
-    "azure",
-    "snacks",
+    "azure"
 ]
 +++
 

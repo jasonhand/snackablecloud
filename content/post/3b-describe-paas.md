@@ -1,6 +1,6 @@
 +++
 author = "Actors"
-title = "Describe Platform as a Service"
+title = "Platform as a Service"
 date = "2020-05-08"
 description = "Describe PaaS"
 tags = [
@@ -9,8 +9,7 @@ tags = [
     "cloud computing"
 ]
 categories = [
-    "azure",
-    "snacks"
+    "azure"
 ]
 +++
 

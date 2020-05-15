@@ -1,6 +1,6 @@
 +++
 author = "Actors"
-title = "Describe Private Cloud"
+title = "What is  the 'Private' Cloud"
 date = "2020-05-03"
 description = "Describe Private Cloud"
 tags = [
@@ -8,8 +8,7 @@ tags = [
     "cloud computing"
 ]
 categories = [
-    "azure",
-    "snacks"
+    "azure"
 ]
 +++
 

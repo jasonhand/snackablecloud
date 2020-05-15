@@ -1,6 +1,6 @@
 +++
 author = "Actors"
-title = "Identify a Service Type Based On Use Case"
+title = "Service Types Based On Use Case"
 date = "2020-05-06"
 description = "Identify a Service Type Based On Use Case"
 tags = [
@@ -9,8 +9,7 @@ tags = [
     "cloud computing"
 ]
 categories = [
-    "azure",
-    "snacks"
+    "azure"
 ]
 +++
 

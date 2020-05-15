@@ -12,7 +12,6 @@ tags = [
 ]
 categories = [
     "azure",
-    "snacks",
     "benefits"
 ]
 +++

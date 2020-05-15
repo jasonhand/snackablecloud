@@ -1,16 +1,13 @@
 +++
 author = "Actors"
-title = "Describe the Consumption Based Model"
+title = "Consumption Based Model"
 date = "2020-05-12"
 description = "Describe the Consumption Based Model"
 tags = [
-    "consumption based",
-    "pricing"
+    "consumption based"
 ]
 categories = [
-    "azure",
-    "snacks",
-    "pricing"
+    "azure"
 ]
 +++
 

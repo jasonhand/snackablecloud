@@ -2,7 +2,7 @@
 author = "Actors"
 title = "Describe Shared Responsibility Model"
 date = "2020-05-10"
-description = "Describe Shared Responsibility Model"
+description = "Shared Responsibility Model"
 tags = [
     "capital expenditure",
     "operational expenditure",
@@ -10,7 +10,6 @@ tags = [
 ]
 categories = [
     "azure",
-    "snacks",
     "benefits"
 ]
 +++

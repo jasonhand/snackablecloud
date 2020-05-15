@@ -1,6 +1,6 @@
 +++
 author = "Actors"
-title = "Define Cloud Computing"
+title = "What is Cloud Computing?"
 date = "2020-05-05"
 description = "Define Cloud Computing"
 tags = [
@@ -10,7 +10,6 @@ tags = [
 ]
 categories = [
     "azure",
-    "snacks",
     "benefits"
 ]
 +++
