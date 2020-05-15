@@ -1,6 +1,6 @@
 +++
 author = "Actors"
-title = "Platform as a Service"
+title = "Platform as a Service (PaaS)"
 date = "2020-05-08"
 description = "Describe PaaS"
 tags = [

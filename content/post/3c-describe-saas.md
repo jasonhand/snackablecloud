@@ -1,6 +1,6 @@
 +++
 author = "Actors"
-title = "Software as a Service (SaaS"
+title = "Software as a Service (SaaS)"
 date = "2020-05-07"
 description = "Describe SaaS"
 tags = [
