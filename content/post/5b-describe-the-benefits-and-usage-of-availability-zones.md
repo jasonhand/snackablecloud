@@ -1,11 +1,10 @@
 +++
 author = "Actors"
-title = "Availability Zones"
-date = "2020-05-04"
-description = "Coming Soon..."
+title = "Describe the benefits and usage of Availability zones"
+date = "2020-04-29"
+description = "Describe the benefits and usage of Availability zones"
 tags = [
-    "capital expenditure",
-    "operational expenditure",
+    "availability zones",
     "cloud"
 ]
 categories = [

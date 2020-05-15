@@ -1,11 +1,11 @@
 +++
 author = "Actors"
-title = "Pricing"
-date = "2020-05-16"
-description = "Describe PaaS"
+title = "Describe Infrastructure as a Service (IaaS)"
+date = "2020-05-09"
+description = "Describe IaaS"
 tags = [
     "IaaS",
-    "platform",
+    "infrastructure",
     "cloud"
 ]
 categories = [

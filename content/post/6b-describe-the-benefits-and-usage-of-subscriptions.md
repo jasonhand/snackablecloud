@@ -1,11 +1,10 @@
 +++
 author = "Actors"
-title = "Describe Shared Responsibility Model"
-date = "2020-05-10"
-description = "Describe Shared Responsibility Model"
+title = "Describe the benefits and usage of Subscriptions"
+date = "2020-04-27"
+description = "Describe the benefits and usage of Subscriptions"
 tags = [
-    "capital expenditure",
-    "operational expenditure",
+    "subscriptions",
     "cloud"
 ]
 categories = [

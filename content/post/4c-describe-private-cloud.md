@@ -1,7 +1,7 @@
 +++
 author = "Actors"
-title = "Types of Cloud Services"
-date = "2020-05-04"
+title = "Cloud Deployment Models"
+date = "2020-05-03"
 description = "Coming soon..."
 tags = [
     "capital expenditure",

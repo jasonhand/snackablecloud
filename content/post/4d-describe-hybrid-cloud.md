@@ -1,15 +1,17 @@
 +++
 author = "Actors"
-title = "Azure Datacenter Locations"
-date = "2020-05-04"
-description = "Coming soon"
+title = "Cloud Deployment Models"
+date = "2020-05-02"
+description = "Coming soon..."
 tags = [
-    "availability zones",
-    "regions"
+    "capital expenditure",
+    "operational expenditure",
+    "cloud"
 ]
 categories = [
     "azure",
-    "snacks"
+    "snacks",
+    "benefits"
 ]
 +++
 

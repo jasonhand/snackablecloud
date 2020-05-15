@@ -1,16 +1,16 @@
 +++
 author = "Actors"
-title = "Pricing"
-date = "2020-05-16"
-description = "Describe IaaS"
+title = "Compare and contrast the three different cloud models"
+date = "2020-05-01"
+description = "Compare and contrast the three different cloud models"
 tags = [
-    "IaaS",
-    "infrastructure",
+    "models",
     "cloud"
 ]
 categories = [
     "azure",
-    "snacks"
+    "snacks",
+    "benefits"
 ]
 +++
 

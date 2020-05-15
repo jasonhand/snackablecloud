@@ -1,11 +1,10 @@
 +++
 author = "Actors"
-title = "Describe Shared Responsibility Model"
-date = "2020-05-10"
-description = "Describe Shared Responsibility Model"
+title = "Describe the benefits and usage of Resource Groups"
+date = "2020-04-28"
+description = "Describe the benefits and usage of Resource Groups"
 tags = [
-    "capital expenditure",
-    "operational expenditure",
+    "availability zones",
     "cloud"
 ]
 categories = [

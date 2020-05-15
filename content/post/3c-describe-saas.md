@@ -1,17 +1,16 @@
 +++
 author = "Actors"
-title = "Multiple Subscriptions"
-date = "2020-05-04"
-description = "Coming Soon..."
+title = "Describe Software as a Server (SaaS"
+date = "2020-05-07"
+description = "Describe SaaS"
 tags = [
-    "capital expenditure",
-    "operational expenditure",
+    "SaaS",
+    "Software",
     "cloud"
 ]
 categories = [
     "azure",
-    "snacks",
-    "benefits"
+    "snacks"
 ]
 +++
 

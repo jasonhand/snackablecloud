@@ -1,17 +1,16 @@
 +++
 author = "Actors"
-title = "Describe Shared Responsibility Model"
-date = "2020-05-10"
-description = "Describe Shared Responsibility Model"
+title = "Pricing"
+date = "2020-05-08"
+description = "Describe PaaS"
 tags = [
-    "capital expenditure",
-    "operational expenditure",
+    "PaaS",
+    "platform",
     "cloud"
 ]
 categories = [
     "azure",
-    "snacks",
-    "benefits"
+    "snacks"
 ]
 +++
 

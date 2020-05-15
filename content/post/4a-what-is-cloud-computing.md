@@ -1,8 +1,8 @@
 +++
 author = "Actors"
-title = "Describe Shared Responsibility Model"
-date = "2020-05-10"
-description = "Describe Shared Responsibility Model"
+title = Define Cloud Computing"
+date = "2020-05-05"
+description = "Define Cloud Computing"
 tags = [
     "capital expenditure",
     "operational expenditure",

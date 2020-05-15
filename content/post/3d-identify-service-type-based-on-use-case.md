@@ -1,17 +1,16 @@
 +++
 author = "Actors"
-title = "Management Groups"
-date = "2020-05-04"
-description = "Coming Soon..."
+title = "Identify a Service Type Based On Use Case"
+date = "2020-05-06"
+description = "Identify a Service Type Based On Use Case"
 tags = [
-    "capital expenditure",
-    "operational expenditure",
+    "Service",
+    "platform",
     "cloud"
 ]
 categories = [
     "azure",
-    "snacks",
-    "benefits"
+    "snacks"
 ]
 +++
 

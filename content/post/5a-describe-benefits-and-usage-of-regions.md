@@ -1,11 +1,10 @@
 +++
 author = "Actors"
-title = "Principles of Resource Groups"
-date = "2020-05-04"
-description = "Coming soon..."
+title = "Describe the benefits and usage of regions"
+date = "2020-04-30"
+description = "Describe the benefits and usage of regions"
 tags = [
-    "capital expenditure",
-    "operational expenditure",
+    "Regions",
     "cloud"
 ]
 categories = [

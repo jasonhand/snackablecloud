@@ -1,11 +1,10 @@
 +++
 author = "Actors"
-title = "What Is Cloud Computing"
-date = "2020-05-04"
-description = "Coming soon..."
+title = "Describe the benefits and usage of Management Groups"
+date = "2020-04-26"
+description = "Describe the benefits and usage of Management Groups"
 tags = [
-    "capital expenditure",
-    "operational expenditure",
+    "Management Groups",
     "cloud"
 ]
 categories = [
