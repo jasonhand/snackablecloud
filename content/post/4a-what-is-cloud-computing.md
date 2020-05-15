@@ -1,6 +1,6 @@
 +++
 author = "Actors"
-title = Define Cloud Computing"
+title = "Define Cloud Computing"
 date = "2020-05-05"
 description = "Define Cloud Computing"
 tags = [
