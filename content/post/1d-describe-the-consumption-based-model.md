@@ -20,4 +20,4 @@ categories = [
 
 [Watch Video](https://twitter.com/i/status/1258562260387201025)
 
-Hey the cloud is just somebody else's computer. Also, somebody else's servers, infrastructure, data center, etc, that is probably better than yours. @bbenz and @jasonhand break it down here:
+"Only pay for what you use" is a phrase used a lot in Cloud Computing. Join @amykatenicho and @jasonhand to hear examples of what consumption based modelling is #az900

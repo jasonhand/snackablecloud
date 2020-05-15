@@ -18,4 +18,4 @@ categories = [
 
 [Watch Video](https://twitter.com/i/status/1258411264532901892)
 
-Hey the cloud is just somebody else's computer. Also, somebody else's servers, infrastructure, data center, etc, that is probably better than yours. @bbenz and @jasonhand break it down here:
+Resource groups are the atomic element of your @azure cloud infrastructure - in this video @bbenz and @lbugnion explain what they are and why you need to know how they work. #az900

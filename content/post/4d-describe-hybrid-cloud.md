@@ -19,4 +19,4 @@ categories = [
 
 [Watch Video](https://twitter.com/i/status/1258411264532901892)
 
-Hey the cloud is just somebody else's computer. Also, somebody else's servers, infrastructure, data center, etc, that is probably better than yours. @bbenz and @jasonhand break it down here:
+Is the hybrid cloud the best of both worlds for cloud models? Hear @amykatenicho and @lbugnion discuss the in's and out's of hybrid cloud  #az900

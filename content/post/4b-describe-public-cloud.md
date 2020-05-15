@@ -19,4 +19,4 @@ categories = [
 
 [Watch Video](https://twitter.com/i/status/1258411264532901892)
 
-Hey the cloud is just somebody else's computer. Also, somebody else's servers, infrastructure, data center, etc, that is probably better than yours. @bbenz and @jasonhand break it down here:
+A public cloud advantage - scaling when you need it without the upfront costs. Join @amykatenicho and @lbugnion to breakdown the concept of the public cloud #az900

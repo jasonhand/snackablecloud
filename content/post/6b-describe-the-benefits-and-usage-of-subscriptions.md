@@ -18,4 +18,4 @@ categories = [
 
 [Watch Video](https://twitter.com/i/status/1258411264532901892)
 
-Hey the cloud is just somebody else's computer. Also, somebody else's servers, infrastructure, data center, etc, that is probably better than yours. @bbenz and @jasonhand break it down here:
+Subscriptions are the way that you manage users and budgets in the @azure cloud.  See @lbugnion and @bbenz explain how they work and how you can make them fit into your organization. #az900

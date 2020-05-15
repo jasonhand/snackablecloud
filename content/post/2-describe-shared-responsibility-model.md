@@ -19,4 +19,4 @@ categories = [
 
 [Watch Video](https://twitter.com/i/status/1258411264532901892)
 
-Hey the cloud is just somebody else's computer. Also, somebody else's servers, infrastructure, data center, etc, that is probably better than yours. @bbenz and @jasonhand break it down here:
+Getting into Azure? Great but do you know who is responsible for what? Learn more about this with @AmyKateNicho and @LBugnion here! #az900

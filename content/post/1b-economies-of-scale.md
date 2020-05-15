@@ -19,4 +19,4 @@ categories = [
 
 [Watch Video](https://twitter.com/i/status/1258411264532901892)
 
-Hey the cloud is just somebody else's computer. Also, somebody else's servers, infrastructure, data center, etc, that is probably better than yours. @bbenz and @jasonhand break it down here:
+Who spends a billion dollars on data center security and compliance?  @Microsoft does, so their @azure customers don't have to spend even more.  @jasonhand and @bbenz explain here: #az900

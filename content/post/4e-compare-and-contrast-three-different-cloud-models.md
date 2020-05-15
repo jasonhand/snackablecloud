@@ -18,4 +18,4 @@ categories = [
 
 [Watch Video](https://twitter.com/i/status/1258411264532901892)
 
-Hey the cloud is just somebody else's computer. Also, somebody else's servers, infrastructure, data center, etc, that is probably better than yours. @bbenz and @jasonhand break it down here:
+What is the right cloud model for you? "Well it depends" - spend some time with @amykatenicho and @lbugnion discussing the things to consider when choosing a cloud deployment model #az900

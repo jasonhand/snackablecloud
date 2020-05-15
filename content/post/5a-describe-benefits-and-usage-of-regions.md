@@ -18,4 +18,4 @@ categories = [
 
 [Watch Video](https://twitter.com/i/status/1258411264532901892)
 
-Hey the cloud is just somebody else's computer. Also, somebody else's servers, infrastructure, data center, etc, that is probably better than yours. @bbenz and @jasonhand break it down here:
+We still cannot go faster than light. Listen @Lbugnion and @fboucheros sharing how to reduce latency where ever your clients are. #az900
