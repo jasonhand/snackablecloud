@@ -13,7 +13,7 @@ categories = [
 ]
 +++
 
-[Learn More](https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/2-principles-of-resource-groups?WT.mc_id=snackable-social-cxa)
+[Learn More](https://www.jhand.dev/29)
 
 [Watch Video](https://twitter.com/i/status/1258411264532901892)
 

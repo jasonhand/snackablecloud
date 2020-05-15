@@ -13,7 +13,7 @@ categories = [
 ]
 +++
 
-[Learn More](https://docs.microsoft.com/learn/modules/principles-cloud-computing/4-cloud-deployment-models?WT.mc_id=snackable-social-cxa)
+[Learn More](https://jhand.dev/26)
 
 [Watch Video](https://twitter.com/i/status/1258411264532901892)
 

@@ -13,7 +13,7 @@ categories = [
 ]
 +++
 
-[Learn More](https://docs.microsoft.com/learn/modules/explore-azure-infrastructure/4-availability-zones?WT.mc_id=snackable-social-cxa)
+[Learn More](https://www.jhand.dev/28)
 
 [Watch Video](https://twitter.com/i/status/1258411264532901892)
 

@@ -13,7 +13,7 @@ categories = [
 ]
 +++
 
-[Learn More](https://docs.microsoft.com/en-ca/learn/modules/create-an-azure-account/4-multiple-subscriptions?WT.mc_id=snackable-social-cxa)
+[Learn More](https://www.jhand.dev/30)
 
 [Watch Video](https://twitter.com/i/status/1258411264532901892)
 

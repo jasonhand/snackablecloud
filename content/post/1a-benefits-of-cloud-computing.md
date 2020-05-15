@@ -16,7 +16,7 @@ categories = [
 ]
 +++
 
-[Learn More](https://docs.microsoft.com/learn/modules/principles-cloud-computing/3-benefits-of-cloud-computing?WT.mc_id=snackable-social-cxa)
+[Learn More](https://jhand.dev/19)
 
 [Watch Video](https://twitter.com/i/status/1258097119958724608)
 

@@ -9,12 +9,11 @@ tags = [
     "cloud computing"
 ]
 categories = [
-    "azure",
-    "pricing"
+    "azure"
 ]
 +++
 
-[Learn More](https://docs.microsoft.com/learn/modules/principles-cloud-computing/3c-capex-vs-opex?WT.mc_id=snackable-social-cxa)
+[Learn More](https://jhand.dev/21)
 
 ![](/img/capexopex.png)
 

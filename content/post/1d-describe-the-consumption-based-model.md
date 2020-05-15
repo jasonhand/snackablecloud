@@ -11,7 +11,7 @@ categories = [
 ]
 +++
 
-[Learn More](https://azure.microsoft.com/en-ca/pricing/?WT.mc_id=snackable-social-cxa)
+[Learn More](https://jhand.dev/22)
 
 ![](/img/capexopex.png)
 

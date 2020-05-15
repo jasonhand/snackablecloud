@@ -14,7 +14,7 @@ categories = [
 ]
 +++
 
-[Learn More](https://docs.microsoft.com/learn/modules/principles-cloud-computing/3b-economies-of-scale?WT.mc_id=snackable-social-cxa)
+[Learn More](https://jhand.dev/20)
 
 [Watch Video](https://twitter.com/i/status/1258199872429109248)
 

@@ -13,7 +13,7 @@ categories = [
 ]
 +++
 
-[Learn More](https://docs.microsoft.com/learn/modules/intro-to-governance/4-management-groups?WT.mc_id=snackable-social-cxa)
+[Learn More](https://www.jhand.dev/31)
 
 [Watch Video](https://twitter.com/i/status/1258411264532901892)
 
