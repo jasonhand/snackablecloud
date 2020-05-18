@@ -15,7 +15,7 @@ categories = [
 
 ["Learn" More](https://jhand.dev/21)
 
-![](/img/capexopex.png)
+[![](https://jhandcdn.blob.core.windows.net/blob/snackablecloud/1c-CapexOpex.png)](https://twitter.com/i/status/1258411264532901892)
 
 [Watch Video](https://twitter.com/i/status/1258411264532901892)
 

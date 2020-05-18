@@ -15,6 +15,4 @@ categories = [
 
 ["Learn" More](https://www.jhand.dev/31)
 
-[Watch Video](https://twitter.com/i/status/1258411264532901892)
-
 How do you manage and administor a ton of subscriptions in Azure? @lbugnion and @jasonhand chat about Management Groups, how they address this very question, and more. #az900

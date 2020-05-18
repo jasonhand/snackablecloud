@@ -16,6 +16,8 @@ categories = [
 
 ["Learn" More](https://jhand.dev/20)
 
+[![](https://jhandcdn.blob.core.windows.net/blob/snackablecloud/1b-Economies-Of-Scale.png)](https://twitter.com/i/status/1258199872429109248)
+
 [Watch Video](https://twitter.com/i/status/1258199872429109248)
 
 Who spends a billion dollars on data center security and compliance?  @Microsoft does, so their @azure customers don't have to spend even more.  @jasonhand and @bbenz explain here: #az900
