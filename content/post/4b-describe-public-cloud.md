@@ -16,6 +16,4 @@ categories = [
 
 ["Learn" More](https://jhand.dev/26)
 
-[Watch Video](https://twitter.com/i/status/1258411264532901892)
-
 A public cloud advantage - scaling when you need it without the upfront costs. Join @amykatenicho and @lbugnion to breakdown the concept of the public cloud #az900

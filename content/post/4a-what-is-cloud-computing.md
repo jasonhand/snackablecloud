@@ -16,6 +16,8 @@ categories = [
 
 ["Learn" More](https://jhand.dev/25)
 
+[![](https://jhandcdn.blob.core.windows.net/blob/snackablecloud/4a-what-is-cloud-comuting.png)](https://twitter.com/i/status/1260678167431241728)
+
 [Watch Video](https://twitter.com/i/status/1260678167431241728)
 
 New to cloud computing?  Here's @lbugnion and @bbenz with some definitions of @Azure that even your grandparents will understand.   #az900

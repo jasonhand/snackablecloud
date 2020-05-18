@@ -14,6 +14,4 @@ categories = [
 
 ["Learn" More](https://jhand.dev/26)
 
-[Watch Video](https://twitter.com/i/status/1258411264532901892)
-
 Is the hybrid cloud the best of both worlds for cloud models? Hear @amykatenicho and @lbugnion discuss the in's and out's of hybrid cloud  #az900

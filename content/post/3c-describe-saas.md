@@ -15,6 +15,8 @@ categories = [
 
 ["Learn" More](https://jhand.dev/24)
 
+[![](https://jhandcdn.blob.core.windows.net/blob/snackablecloud/3c-DescribeSaaS.png)](https://twitter.com/i/status/1260185454810296321)
+
 [Watch Video](https://twitter.com/i/status/1260185454810296321)
 
 Did you know that SaaS means Software as a Service? Here @LBugnion and @AmyKateNicho describe what it means and give examples #az900
